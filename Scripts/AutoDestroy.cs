@@ -4,7 +4,7 @@ using System.Collections;
 
 public class AutoDestroy : MonoBehaviour {
 
-    public float lifespan = 1f;
+  public float lifespan = 1f;
 
 	void Start () {
         // Auto destroy after a given time
